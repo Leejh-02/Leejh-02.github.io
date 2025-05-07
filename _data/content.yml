@@ -10,7 +10,7 @@ hero:
   title: "<b>Lee</b> JuHwan"
   before_title: "반갑습니다 <b>제 이름은</b>"
   after_title: "반갑습니다<strong>정보보안 전문가입니다.</strong>"
-  description: "정보 보안을 배우는 학생입니다"
+  description: "정보 보안을 공부하고 있습니다"
   button1:
     label: "이력서 다운받기기"
     link: "0"
