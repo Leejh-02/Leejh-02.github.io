@@ -8,7 +8,7 @@ hero:
   image: "assets/img/profile2.png"
   image_alt: "Lee JuHwan"
   title: "<b>Lee</b> JuHwan"
-  before_title: "Hello, <b>my name is</b>"
+  before_title: "반갑습니다 <b>제 이름은</b>"
   after_title: "반갑습니다<strong>정보보안 전문가입니다.</strong>"
   description: "정보 보안을 배우는 학생입니다"
   button1:
