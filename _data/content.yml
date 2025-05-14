@@ -8,11 +8,11 @@ hero:
   image: "assets/img/profile2.png"
   image_alt: "Lee JuHwan"
   title: "<b>Lee</b> JuHwan"
-  before_title: "반갑습니다 <b>제 이름은</b>"
+  before_title: "반갑습니다. <b>제 이름은</b>"
   after_title: "<strong></strong>"
   description: "한국폴리텍 강서캠퍼스 사이버보안과 2학년입니다."
   button1:
-    label: "이력서 다운받기기"
+    label: "이력서 다운받기"
     link: "0"
   button2:
     label: "My Skills"
