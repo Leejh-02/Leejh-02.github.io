@@ -6,14 +6,14 @@
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile2.png"
-  image_alt: "이주환환"
+  image_alt: "이주환"
   title: "<b>주환</b> 이"
   before_title: "반갑습니다 <b> 제 이름은 </b>"
-  after_title: "반갑습니다<strong>정보보안전문가</strong>"
-  description: "정보 보안을 배우고 있습니다"
+  after_title: "<strong></strong>"
+  description: "한국폴리텍 강서캠퍼스 2학년입니다."
   button1:
-    label: "Download CV"
-    link: "https://drive.google.com/"
+    label: "이력서 다운받기기"
+    link: ""
   button2:
     label: "My Skills"
     link: "#skills-section"
