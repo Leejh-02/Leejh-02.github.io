@@ -75,17 +75,17 @@ skills:
         value: "70" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: #"기본적인 개발환경 구축 및 "
+        text: #"개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
         value: "65" #0-100 progress in %
 
   column2:
     items:
       - label: "Java" #0-10 progress in dots
-        text: #"개인적으로 공부중"
+        text: #"개인적으로 공부중에 있습니다."
         value: "75" #0-100 progress in %
 
       - label: "Jsp" #0-10 progress in dots
-        text: #"ㅁ"
+        text: #"개인적으로 공부중에 있습니다."
         value: "70" #0-100 progress in %
 
   column3:
