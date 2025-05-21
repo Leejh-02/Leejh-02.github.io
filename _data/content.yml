@@ -82,21 +82,21 @@ skills:
     items:
       - label: "Java" #0-10 progress in dots
         text: #"개인적으로 공부중에 있습니다."
-        value: "75" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
       - label: "Jsp" #0-10 progress in dots
         text: #"개인적으로 공부중에 있습니다."
-        value: "70" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "C" #0-10 progress in dots
+        text: #"C 기능 구현, 코드 분석 가능"
+        value: "65" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      - label: "EXCEL" #0-10 progress in dots
+        text: #"표, 간단한 함수 가능"
+        value: "70" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
