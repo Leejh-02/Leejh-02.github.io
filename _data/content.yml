@@ -6,23 +6,23 @@
 ### Hero [ hero-image ]
 hero:
   image: "assets/img/profile2.png"
-  image_alt: "이주환"
-  title: "<b>주환</b> 이"
-  before_title: "반갑습니다 <b> 제 이름은 </b>"
+  image_alt: "Lee JuHwan"
+  title: "<b>Lee</b> JuHwan"
+  before_title: "반갑습니다. <b>제 이름은</b>"
   after_title: "<strong></strong>"
-  description: "한국폴리텍 강서캠퍼스 2학년입니다."
+  description: "한국폴리텍 강서캠퍼스 사이버보안과 2학년 입니다."
   button1:
-    label: "이력서 다운받기기"
-    link: ""
+    label: "이력서 다운받기"
+    link: "0"
   button2:
     label: "My Skills"
     link: "#skills-section"
-  bg_title: "Web Developer"
+  bg_title: " "
   info:
-    - num: "12 <strong>+</strong>"
+    - num: "2 <strong>+</strong>"
       value: "Years of <strong>Experience</strong>"
 
-    - num: "330"
+    - num: "3"
       value: "Completed <strong>Projects</strong>"
 
 ### Services [ services ]
@@ -70,33 +70,33 @@ skills:
 
   column1:
     items:
-      - label: "PHP" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "85" #0-100 progress in %
+      - label: "Linux" #0-10 progress in dots
+        text: #"iptables를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
+        value: "70" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+        text: #"개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
+        value: "65" #0-100 progress in %
 
   column2:
     items:
-      - label: "JavaScript" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "75" #0-100 progress in %
+      - label: "Java" #0-10 progress in dots
+        text: #"개인적으로 공부중에 있습니다."
+        value: "60" #0-100 progress in %
 
-      - label: "React" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "70" #0-100 progress in %
+      - label: "Jsp" #0-10 progress in dots
+        text: #"개인적으로 공부중에 있습니다."
+        value: "60" #0-100 progress in %
 
   column3:
     items:
-      - label: "WordPress" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "90" #0-100 progress in %
+      - label: "C" #0-10 progress in dots
+        text: #"C 기능 구현, 코드 분석 가능"
+        value: "65" #0-100 progress in %
 
-      - label: "Adobe XD" #0-10 progress in dots
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-        value: "80" #0-100 progress in %
+      - label: "EXCEL" #0-10 progress in dots
+        text: #"표, 간단한 함수 가능"
+        value: "70" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -121,7 +121,7 @@ resume:
         subname: "High School"
         period: "2010 - 2012"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+ 
   experience:
     title: "Experience"
     items:
