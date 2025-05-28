@@ -13,7 +13,7 @@ hero:
   description: "한국폴리텍 강서캠퍼스 사이버보안과 2학년 입니다."
   button1:
     label: "이력서 다운받기"
-    link: "0"
+    link: " "
   button2:
     label: "My Skills"
     link: "#skills-section"
@@ -27,13 +27,12 @@ hero:
 
 ### Services [ services ]
 services:
-  title: "What I Do"
-  subtitle: "my <b>Services</b>"
+  title: "my <b>Projects</b>"
   bg_title: "Services"
 
   items:
-    - title: "Web Design &amp; Logo"
-      subtitle: "Web Development"
+    - title: "파일 암호화 프로그램램"
+      subtitle: "암호화"
       text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
       button_label: "See Pricing"
       button_link: "#pricing-section"
