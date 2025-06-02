@@ -3,7 +3,7 @@
 layout: works-single
 title: 파일 암호화 프로젝트
 category: project
-category_slug: project
+category_slug: Project
 image: assets/img/works/work7.jpg
 short_description: 
 
@@ -19,8 +19,8 @@ info:
 
 description1:
   show: yes
-  title: Project Goal
-  text: "<p>aaa</p>"
+  title: Project 결과물
+  text: ""
 
 gallery:
   - assets/img/works/work1.png
@@ -39,9 +39,3 @@ gallery:
 description2:
   title: Project Result
   text: "<p>aaaa</p>"
-
-video:
-  poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
-
----
