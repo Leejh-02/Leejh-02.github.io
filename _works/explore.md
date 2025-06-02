@@ -19,8 +19,8 @@ info:
 
 description1:
   show: yes
-  title: Project 결과물
-  text: ""
+  title: Project Goal
+  text: "<p>aaaa</p>"
 
 gallery:
   - assets/img/works/work1.png
