@@ -273,9 +273,9 @@ contacts:
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
 portfolio:
-  title: "Portfolio"
+  title: "Project"
   subtitle: "my <b>Cases</b>"
-  bg_title: "Portfolio"
+  bg_title: "project"
   button:
     link: "works/"
     label: "View More"
