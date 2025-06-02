@@ -12,8 +12,8 @@ hero:
   after_title: "<strong></strong>"
   description: "한국폴리텍 강서캠퍼스 사이버보안과 2학년 입니다."
   button1:
-    label: "이력서 다운받기"
-    link: " "
+    label: "깃허브로 이동하기"
+    link: "https://github.com/Leejh-02"
   button2:
     label: "My Skills"
     link: "#skills-section"
@@ -26,40 +26,40 @@ hero:
       value: "Completed <strong>Projects</strong>"
 
 ### Services [ services ]
-services:
-  title: "my <b>Projects</b>"
-  bg_title: "Services"
+# services:
+#   title: "my <b>Projects</b>"
+#   bg_title: "Services"
 
-  items:
-    - title: "파일 암호화 프로그램램"
-      subtitle: "암호화"
-      text: "Web designers craft the overall vision &amp; plan for a website layout. Professional logo development: Business, Company, or Personal."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+#   items:
+#     - title: "파일 암호화 프로그램"
+#       subtitle: "암호화"
+#       text: ""
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
 
-    - title: "iOS &amp; Android"
-      subtitle: "Apps Development"
-      text: "Design Software applications to run on mobile devices. Modern and mobile-ready application that will help you reach all of your marketing."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+#     - title: "메시지 암호화"
+#       subtitle: "암호화"
+#       text: " "
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
 
-    - title: "Unity &amp; Unreal Engine"
-      subtitle: "Game Development"
-      text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+#     - title: "Unity &amp; Unreal Engine"
+#       subtitle: "Game Development"
+#       text: "Creating games &amp; describes the design, development and release of a game. Developing unique mobile android and ios games."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
 
-    - title: "Google Ads"
-      subtitle: "Advertising"
-      text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+#     - title: "Google Ads"
+#       subtitle: "Advertising"
+#       text: "Advertising services include: Google search result pages, gmails, YouTube and other websites participated in Google Ads program."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
 
-    - title: "Sound Track"
-      subtitle: "Music Writing"
-      text: "Music copying, writing, creating, transcription and composition services."
-      button_label: "See Pricing"
-      button_link: "#pricing-section"
+#     - title: "Sound Track"
+#       subtitle: "Music Writing"
+#       text: "Music copying, writing, creating, transcription and composition services."
+#       button_label: "See Pricing"
+#       button_link: "#pricing-section"
 
 ### Skills [ skills ]
 skills:
@@ -174,66 +174,66 @@ testimonials:
 
 
 ### Pricing [ pricing ]
-pricing:
-  title: "Pricing"
-  subtitle: "my <b>Price Board</b>"
-  bg_title: "Pricing"
+# pricing:
+#   title: "Pricing"
+#   subtitle: "my <b>Price Board</b>"
+#   bg_title: "Pricing"
 
-  items:
-    - name: "Hourley Basis"
-      center: false
-      price: "39 <b>$</b>"
-      price_after: "Hour"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: false
-        - value: "Photography"
-          included: false
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#   items:
+#     - name: "Hourley Basis"
+#       center: false
+#       price: "39 <b>$</b>"
+#       price_after: "Hour"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: false
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
-    - name: "Freelancing"
-      center: true
-      label: "Popular"
-      price: "259 <b>$</b>"
-      price_after: "Week"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: true
-        - value: "Photography"
-          included: false
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#     - name: "Freelancing"
+#       center: true
+#       label: "Popular"
+#       price: "259 <b>$</b>"
+#       price_after: "Week"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: false
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
-    - name: "Full Time"
-      center: false
-      price: "1.249 <b>$</b>"
-      price_after: "Month"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
-      list:
-        - value: "Brand Design"
-          included: true
-        - value: "Web Development"
-          included: true
-        - value: "Advertising"
-          included: true
-        - value: "Photography"
-          included: true
-      button:
-        label: "Start Project"
-        link: "#contact-section"
+#     - name: "Full Time"
+#       center: false
+#       price: "1.249 <b>$</b>"
+#       price_after: "Month"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida."
+#       list:
+#         - value: "Brand Design"
+#           included: true
+#         - value: "Web Development"
+#           included: true
+#         - value: "Advertising"
+#           included: true
+#         - value: "Photography"
+#           included: true
+#       button:
+#         label: "Start Project"
+#         link: "#contact-section"
 
 
 ### Blog [ blog ]
