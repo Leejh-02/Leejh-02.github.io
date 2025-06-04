@@ -104,7 +104,7 @@ resume:
   bg_title: "History"
 
   education:
-    title: "Education"
+    title: "학력"
     items:
       - name: "CoderHouse Courses"
         subname: "Backend Programming"
@@ -122,7 +122,7 @@ resume:
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
  
   experience:
-    title: "Experience"
+    title: "미래방향"
     items:
       - name: "UI Head &amp; Manager"
         subname: "Soft Tech Inc."
