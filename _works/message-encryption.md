@@ -1,7 +1,7 @@
 ---
 # preview details
 layout: works-single
-title: Gooir
+title: 메세지 암호화 프로젝트
 category: Project
 category_slug: Project
 image: assets/img/works/msg/msg9.jpg
