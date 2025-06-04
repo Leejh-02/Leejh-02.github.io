@@ -12,10 +12,10 @@ live_preview: https://bslthemes.com
 full_image: assets/img/works/single1.jpg
 info:
   - label: Year
-    value: 2022
+    value: 2025
 
   - label: Technology
-    value: Figma, UI
+    value: HTML,Python
 
 description1:
   show: yes

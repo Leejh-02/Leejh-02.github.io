@@ -15,15 +15,15 @@ hero:
     label: "깃허브로 이동하기"
     link: "https://github.com/Leejh-02"
   button2:
-    label: "My Skills"
-    link: "#skills-section"
+    label: "이력서 다운받기기"
+    link: "https://docs.google.com/document/d/15_t4rM-9LleCXbZvrRigpVizQ9kpL8V4/edit?usp=drive_link&ouid=111502507419039078397&rtpof=true&sd=true"
   bg_title: " "
   info:
-    - num: "2 <strong>+</strong>"
-      value: "Years of <strong>Experience</strong>"
+    - num: "2"
+      value: "<strong></strong>"
 
-    - num: "3"
-      value: "Completed <strong>Projects</strong>"
+    - num: "2"
+      value: "완료한<strong>프로젝트</strong>"
 
 ### Services [ services ]
 # services:
@@ -70,28 +70,28 @@ skills:
   column1:
     items:
       - label: "Linux" #0-10 progress in dots
-        text: #"iptables를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
-        value: "70" #0-100 progress in %
+        text: #"iptables,snort를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
+        value: "65" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
         text: #"개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
-        value: "65" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
   column2:
     items:
       - label: "Java" #0-10 progress in dots
         text: #"개인적으로 공부중에 있습니다."
-        value: "60" #0-100 progress in %
+        value: "50" #0-100 progress in %
 
       - label: "Jsp" #0-10 progress in dots
         text: #"개인적으로 공부중에 있습니다."
-        value: "60" #0-100 progress in %
+        value: "50" #0-100 progress in %
 
   column3:
     items:
       - label: "C" #0-10 progress in dots
         text: #"C 기능 구현, 코드 분석 가능"
-        value: "65" #0-100 progress in %
+        value: "60" #0-100 progress in %
 
       - label: "EXCEL" #0-10 progress in dots
         text: #"표, 간단한 함수 가능"
@@ -256,19 +256,19 @@ contacts:
   list:
     - label: "Address"
       icon: "far fa-map"
-      text: "North Tower, Toronto, Canada"
+      text: "seoul"
 
-    - label: "Freelance"
-      icon: "far fa-user"
-      text: "Available Right Now"
+    # - label: "Freelance"
+    #   icon: "far fa-user"
+    #   text: "Available Right Now"
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "zoe.miller@mydomain.com"
+      text: "dieo02@naver.com"
 
-    - label: "Phone"
-      icon: "far fa-address-book"
-      text: "+1 900 - 900 - 9000"
+    # - label: "Phone"
+    #   icon: "far fa-address-book"
+    #   text: "+1 900 - 900 - 9000"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*

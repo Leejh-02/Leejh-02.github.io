@@ -9,7 +9,7 @@ short_description:
 
 # full details
 live_preview: https://bslthemes.com
-full_image: assets/img/works/single1.jpg
+full_image: assets/img/works/single2.jpg
 info:
   - label: Year
     value: 2024

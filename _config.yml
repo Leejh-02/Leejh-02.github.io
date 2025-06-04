@@ -31,7 +31,7 @@
 # basic settings
 title: "leejh-02"
 email: "your-email@example.com"
-description: "Jekyll Resume / CV / vCard / Portfolio and Personal Portfolio by bslthemes"
+# description: ""
 author: "Luique"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Leejh-02.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -44,7 +44,7 @@ permalink: pretty
 
 # disqus comments
 disqus_comments: "yes" # yes - show disqus comments, no - hide disqus comments
-disqus_shortname: "leejh-02-github-io" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+disqus_shortname: "dieo02" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
 formspree_endpoint: "https://formspree.io/f/mrbqdvaz" # sign up on https://formspree.io/ and create your form endpoint
