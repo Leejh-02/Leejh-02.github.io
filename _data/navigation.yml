@@ -36,10 +36,10 @@ main:
     url: "#testimonials-section"
     parent: 0
 
-  # Pricing
-  - title: "Pricing"
-    url: "#pricing-section"
-    parent: 0
+  # # Pricing
+  # - title: "Pricing"
+  #   url: "#pricing-section"
+  #   parent: 0
 
   # Blog
   - title: "Blog"

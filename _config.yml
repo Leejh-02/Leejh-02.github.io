@@ -31,8 +31,8 @@
 # basic settings
 title: "leejh-02"
 email: "your-email@example.com"
-# description: ""
-author: "Luique"
+description: "안녕녕"
+author: "뭐라고 적는게 나을려나"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://Leejh-02.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%Y-%m-%d"
