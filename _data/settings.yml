@@ -27,8 +27,8 @@ footer:
 portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
-    - name: "UI UX Design"
-      slug: "ui-ux-design"
+    - name: "암호화"
+      slug: "암호화"
 
     - name: "Photography"
       slug: "photography"
