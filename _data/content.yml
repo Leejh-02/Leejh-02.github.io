@@ -16,14 +16,7 @@ hero:
     link: "https://github.com/Leejh-02"
   button2:
     label: "이력서 보러가기"
-    link: "https://docs.google.com/document/d/15_t4rM-9LleCXbZvrRigpVizQ9kpL8V4/edit?usp=drive_link&ouid=111502507419039078397&rtpof=true&sd=true"
-  bg_title: " "
-  info:
-    - num: "2"
-      value: "<strong></strong>"
-
-    - num: "2"
-      value: "완료한<strong>프로젝트</strong>"
+    link: "https://docs.google.com/uc?export=download&id=15_t4rM-9LleCXbZvrRigpVizQ9kpL8V4"
 
 ### Services [ services ]
 # services:
@@ -70,32 +63,32 @@ skills:
   column1:
     items:
       - label: "Linux" #0-10 progress in dots
-        text: #"iptables,snort를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
+        text: "iptables,snort를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
         value: "65" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: #"개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
+        text: "개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
         value: "60" #0-100 progress in %
 
   column2:
     items:
       - label: "Java" #0-10 progress in dots
-        text: #"개인적으로 공부중에 있습니다."
+        text: "개인적으로 추가적으로 공부중에 있습니다."
         value: "50" #0-100 progress in %
 
       - label: "Jsp" #0-10 progress in dots
-        text: #"개인적으로 공부중에 있습니다."
+        text: ""
         value: "50" #0-100 progress in %
 
   column3:
     items:
       - label: "C" #0-10 progress in dots
-        text: #"C 기능 구현, 코드 분석 가능"
+        text: "C 기능 구현, 코드 분석 가능"
         value: "60" #0-100 progress in %
 
       - label: "EXCEL" #0-10 progress in dots
-        text: #"표, 간단한 함수 가능"
-        value: "70" #0-100 progress in %
+        text: "표, 간단한 함수 가능"
+        value: "65" #0-100 progress in %
 
 ### Resume [ resume ]
 resume:
@@ -106,8 +99,8 @@ resume:
   education:
     title: "학력"
     items:
-      - name: "CoderHouse Courses"
-        subname: "Backend Programming"
+      - name: "선사고등학교교"
+        #subname: "Backend Programming"
         period: "2014 - 2016"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
@@ -116,13 +109,13 @@ resume:
         period: "2012 - 2014"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "IT Future"
-        subname: "High School"
-        period: "2010 - 2012"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
- 
+  #   - name: "IT Future"
+#      subname: "High School"
+#       period: "2010 - 2012"
+#        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
   experience:
-    title: "미래방향"
+    title: ""
     items:
       - name: "UI Head &amp; Manager"
         subname: "Soft Tech Inc."
