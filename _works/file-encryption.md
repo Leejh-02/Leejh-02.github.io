@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: 파일 암호화 프로젝트
-category: project
-category_slug: Project
+category: PROJECT
+category_slug: PROJECT
 image: assets/img/works/work7.jpg
 short_description: 파일 암호화 프로젝트
 

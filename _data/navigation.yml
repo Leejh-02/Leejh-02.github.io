@@ -22,8 +22,8 @@ main:
     parent: 0
 
   # Works
-  - title: "Works"
-    url: "#works-section"
+  - title: "Projects"
+    url: "#Project-section"
     parent: 0
 
   # Resume

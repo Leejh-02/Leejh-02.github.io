@@ -12,8 +12,8 @@ hero:
   after_title: "<strong></strong>"
   description: "한국폴리텍 강서캠퍼스 사이버보안과 2학년 입니다."
   button1:
-    label: "깃허브로 이동하기"
-    link: "https://github.com/Leejh-02"
+    label: "커리큘럼"
+    link: "https://www.kopo.ac.kr/kangseo/content.do?menu=12136"
   button2:
     label: "이력서 보러가기"
     link: "https://docs.google.com/uc?export=download&id=15_t4rM-9LleCXbZvrRigpVizQ9kpL8V4"
@@ -63,31 +63,31 @@ skills:
   column1:
     items:
       - label: "Linux" #0-10 progress in dots
-        text: "iptables,snort를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이해했습니다."
+        text: "iptables와 snort를 활용하여 네트워크 방화벽 설정을 직접 실습하고 이를 심층적으로 이해했습니다. 다양한 명령어와 스크립트를 활용하여 시스템 관리 및 서버 운영 경험을 쌓았습니다."
         value: "65" #0-100 progress in %
 
       - label: "Python" #0-10 progress in dots
-        text: "개발환경 구축 및 기본적인 요소들을 실습해봤습니다."
+        text: "개발 환경 구축 및 기본적인 문법과 자료 구조를 숙지하고 있으며, 다양한 라이브러리를 활용하여 기본적인 요소들을 실습했습니다. 데이터 분석, 자동화 스크립트 작성 등 다양한 분야에 Python을 적용하며 활용 능력을 확장하고 있습니다."
         value: "60" #0-100 progress in %
 
   column2:
     items:
       - label: "Java" #0-10 progress in dots
-        text: "개인적으로 추가적으로 공부중에 있습니다."
+        text: "객체 지향 프로그래밍 개념을 이해하고 있으며, 현재 개인적으로 추가 학습을 통해 고급 Java 기술과 프레임워크 활용 능력을 향상시키고 있습니다. 다양한 라이브러리와 API를 활용하여 효율적인 애플리케이션 개발에 집중하고 있습니다."
         value: "50" #0-100 progress in %
 
       - label: "Jsp" #0-10 progress in dots
-        text: ""
+        text: "JSP(JavaServer Pages)의 기본 문법과 웹 애플리케이션 개발의 핵심 원리를 이해하고 있습니다. 이를 활용하여 동적인 웹 페이지를 구현하고, 서버 사이드 로직과 클라이언트 사이드 UI를 연동하는 실습을 진행했습니다."
         value: "50" #0-100 progress in %
 
   column3:
     items:
       - label: "C" #0-10 progress in dots
-        text: "C 기능 구현, 코드 분석 가능"
+        text: "C 언어의 기본 문법과 자료 구조를 숙지하고 있으며, 다양한 기능을 직접 구현하고 코드를 분석하는 능력을 갖추고 있습니다. 메모리 관리 및 시스템 프로그래밍에 대한 이해를 바탕으로 효율적인 코드 작성을 위해 노력합니다."
         value: "60" #0-100 progress in %
 
       - label: "EXCEL" #0-10 progress in dots
-        text: "표, 간단한 함수 가능"
+        text: "다양한 표를 효율적으로 구성하고 관리할 수 있으며, 기본적인 함수(SUM, AVERAGE, VLOOKUP 등)를 능숙하게 활용합니다. 데이터 분석 및 보고서 작성을 위한 차트 및 피벗 테이블 기능 활용에도 익숙합니다."
         value: "65" #0-100 progress in %
 
 ### Resume [ resume ]
@@ -99,15 +99,15 @@ resume:
   education:
     title: "학력"
     items:
-      - name: "선사고등학교교"
+      - name: "선사고등학교"
         #subname: "Backend Programming"
         period: "2014 - 2016"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "Lviv National Academy of Arts"
-        subname: "Faculty of Design"
-        period: "2012 - 2014"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "한국 폴리텍"
+        subname: "강서캠퍼스"
+        period: "2024 - 2026"
+        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   #   - name: "IT Future"
 #      subname: "High School"
@@ -127,10 +127,10 @@ resume:
         period: "2018 - 2020"
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-      - name: "Plugins Developer"
-        subname: "Fiverr.com"
-        period: "2016 - 2018"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      # - name: "Plugins Developer"
+      #   subname: "Fiverr.com"
+      #   period: "2016 - 2018"
+      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
  
 ### Testimonials [ testimonials ]
@@ -264,11 +264,11 @@ contacts:
     #   text: "+1 900 - 900 - 9000"
 
 ### Portfolio [ portfolio ]
-#items generates from dir /_works/*
+#items generates from dir /_Project/*
 portfolio:
   title: "Project"
   subtitle: "my <b>Cases</b>"
   bg_title: "project"
   button:
-    link: "works/"
+    link: "Project/"
     label: "View More"

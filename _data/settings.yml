@@ -27,14 +27,14 @@ footer:
 portfolio:
   layout: "list" # select works layout options: "Grid" or "List"
   filters:
-    - name: "암호화"
-      slug: "암호화"
+    - name: "PROJECT"
+      slug: "PROJECT"
 
-    - name: "Photography"
-      slug: "photography"
+    - name: "IPTABLES"
+      slug: "Iptables 실습"
 
-    - name: "Development"
-      slug: "development"
+    - name: "SNORT"
+      slug: "Snort 실습"
 
     - name: "Branding"
       slug: "branding"

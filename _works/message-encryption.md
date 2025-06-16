@@ -2,8 +2,8 @@
 # preview details
 layout: works-single
 title: 메세지 암호화 프로젝트
-category: Project
-category_slug: Project
+category: PROJECT
+category_slug: PROJECT
 image: assets/img/works/msg/msg9.jpg
 short_description: 메세지 암호화 프로젝트
 
