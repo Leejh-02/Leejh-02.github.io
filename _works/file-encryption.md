@@ -38,10 +38,5 @@ gallery:
 
 description2:
   title: #Project Result
-  text: "<p>aaaa</p>"
-
-  video:
-  poster: assets/img/blog/blog9.jpg
-  id: Gu6z6kIukgg
-
+  text: #"<p>aaaa</p>"
 ---
