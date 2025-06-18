@@ -6,3 +6,49 @@
   "luique/setting",
   "luique/basic",
   "luique/layout"
+
+.custom-button-wrap {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+<style>
+.custom-button {
+  background: #fff;
+  border: 2px solid #000;
+  border-radius: 50px;
+  padding: 14px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 4px 4px 0 #ccc;
+  text-decoration: none;
+  color: #000;
+  transition: all 0.2s ease;
+}
+
+.custom-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 6px 6px 0 #aaa;
+}
+
+.button-description {
+  margin-left: 20px;
+  position: relative;
+  padding-left: 14px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.button-description::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 18px;
+  height: 2px;
+  background: #000;
+  transform: translateY(-50%);
+}
+</style>
+
