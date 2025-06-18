@@ -19,7 +19,10 @@ info:
 
 description1:
   title: 주의사항
-  text1: "이곳에는 **Linux(실습ppt)** 를 올리는 공간입니다."
+  text1: "이곳에는 Linux(실습ppt) 를 올리는 공간입니다"
+  button:
+    label: 자세히 보기
+    url: https://docs.google.com/presentation/d/1LG2bvDyzxjv0Ft161qk7E4-8ktK8qgch/edit?usp=sharing&ouid=111502507419039078397&rtpof=true&sd=true
 
 #gallery:
 #  - assets/img/works/file1.png
