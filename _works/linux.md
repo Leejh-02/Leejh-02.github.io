@@ -20,16 +20,16 @@ info:
 description1:
   title: 주의사항
   text1: "이곳에는 Linux(실습ppt) 를 올리는 공간입니다"
-  {% if page.button.url %}
-<div class="post-content" style="margin-top: 30px;">
-  <a href="{{ page.button.url }}" target="_blank" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active">
-    <span>{{ page.button.label }}</span>
-  </a>
-</div>
-{% endif %}
-  button:
-    label: 자세히 보기
-    url: https://docs.google.com/presentation/d/1LG2bvDyzxjv0Ft161qk7E4-8ktK8qgch/edit?usp=sharing&ouid=111502507419039078397&rtpof=true&sd=true
+
+buttons:
+  - label: 공식 문서 보기
+    url: https://example.com/docs
+
+  - label: 실습 코드 GitHub
+    url: https://github.com/example/project
+
+  - label: 참고 영상
+    url: https://youtube.com/watch?v=abc123
 
 #gallery:
 #  - assets/img/works/file1.png
