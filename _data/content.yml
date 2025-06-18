@@ -100,9 +100,9 @@ resume:
     title: "education"
     items:
       - name: "선사고등학교"
-        #subname: "Backend Programming"
+        subname: "졸업"
         period: "2014 - 2016"
-        text: "졸업"
+        #text: "졸업"
 
       - name: "한국 폴리텍대학 강서캠퍼스"
         subname: "사이버보안과"
