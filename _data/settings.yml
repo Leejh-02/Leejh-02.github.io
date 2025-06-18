@@ -36,5 +36,5 @@ portfolio:
     - name: "SNORT"
       slug: "Snort 실습"
 
-    - name: "Branding"
-      slug: "branding"
+    - #name: "Branding"
+      #slug: "branding"

@@ -102,12 +102,12 @@ resume:
       - name: "선사고등학교"
         #subname: "Backend Programming"
         period: "2014 - 2016"
-        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: #"졸업"
 
-      - name: "한국 폴리텍"
-        subname: "강서캠퍼스"
+      - name: "한국 폴리텍대학 강서캠퍼스"
+        subname: "사이버보안과"
         period: "2024 - 2026"
-        text: #"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        text: #"졸업예정"
 
   #   - name: "IT Future"
 #      subname: "High School"

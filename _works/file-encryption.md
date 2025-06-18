@@ -4,12 +4,12 @@ layout: works-single
 title: 파일 암호화 프로젝트
 category: PROJECT
 category_slug: PROJECT
-image: assets/img/works/work7.jpg
+image: assets/img/works/single1.jpg
 short_description: 파일 암호화 프로젝트
 
 # full details
-live_preview: https://bslthemes.com
-full_image: assets/img/works/single2.jpg
+#live_preview: https://bslthemes.com
+#full_image: assets/img/works/single1.jpg
 info:
   - label: Year
     value: 2024
@@ -37,7 +37,7 @@ gallery:
   - assets/img/works/file12.png  
 
 description2:
-  title: Project Result
+  title: #Project Result
   text: "<p>aaaa</p>"
 
   video:
