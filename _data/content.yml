@@ -232,7 +232,7 @@ testimonials:
 ### Blog [ blog ]
 #items generates from dir /_posts/*
 blog:
-  title: "Latest Blog"
+  title: "Blog"
   subtitle: "my <b>Articles and Advice</b>"
   bg_title: "Blog"
   button:

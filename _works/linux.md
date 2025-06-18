@@ -19,7 +19,7 @@ info:
 
 description1:
   title: 주의사항
-  text: "이곳에는 **Linux(실습ppt)** 를 올리는 공간입니다."
+  text: 이곳에는 **Linux(실습ppt)** 를 올리는 공간입니다.
 
 #gallery:
 #  - assets/img/works/file1.png
