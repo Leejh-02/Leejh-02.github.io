@@ -23,7 +23,9 @@ description1:
   button1:
     label: "Iptables"
     link: "https://docs.google.com/presentation/d/1LG2bvDyzxjv0Ft161qk7E4-8ktK8qgch/edit?usp=sharing&ouid=111502507419039078397&rtpof=true&sd=true"
-
+  button2:
+    label: "snort_프로토콜 탐지 실습"
+    link: "https://docs.google.com/presentation/d/1p7BBuTC4hglwb_Yy8dx_qXt-J0pfSTaX/edit?usp=sharing&ouid=111502507419039078397&rtpof=true&sd=true"
 #gallery:
 #  - assets/img/works/file1.png
 
