@@ -20,7 +20,7 @@ info:
 description1:
   title: 주의사항
   text1: "이곳에는 Linux(실습ppt) 를 올리는 공간입니다"
-
+# 왜 안되는거야 하 
 buttons:
   - label: 공식 문서 보기
     url: https://example.com/docs
