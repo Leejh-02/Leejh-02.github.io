@@ -99,20 +99,25 @@ layout: default
 			<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
 
 				<div class="post-content">
-					{{ page.description1.text2 }}
+  					{{ page.description1.text2 }}
 				</div>
-				
-				{% if page.buttons %}
-				<div class="btn-group" style="margin-top: 20px;">
-    			{% for button in page.buttons %}
-    				<a href="{{ button.url }}" target="_blank"
-       					class="btn scrolla-element-anim-1 scroll-animate"
-      					data-animate="active"
-       					style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-      					<span>{{ button.label }}</span>
-    				</a>
- 				 	{% endfor %}
+
+				<!-- 여기에 버튼 코드 삽입 -->
+				<div class="custom-button-wrap">
+  					<a href="https://example.com/doc" target="_blank" class="custom-button">공식문서</a>
+  					<span class="button-description">보러가기</span>
 				</div>
+
+				<div class="custom-button-wrap">
+  					<a href="https://github.com" target="_blank" class="custom-button">GitHub 코드</a>
+  					<span class="button-description">확인하기</span>
+				</div>
+
+				<div class="custom-button-wrap">
+  					<a href="https://youtube.com" target="_blank" class="custom-button">영상 강의</a>
+  					<span class="button-description">시청하러</span>
+				</div>
+
 				{% endif %}
 
 			</div>
