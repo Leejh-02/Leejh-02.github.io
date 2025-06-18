@@ -103,11 +103,14 @@ layout: default
 				</div>
 				
 				{% if page.buttons %}
-				<div class="post-content" style="margin-top: 30px;">
-  					{% for button in page.buttons %}
-  					<a href="{{ button.url }}" target="_blank" class="btn scrolla-element-anim-1 scroll-animate" data-animate="active" style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
-    					<span>{{ button.label }}</span>
- 					 </a>
+				<div class="btn-group" style="margin-top: 20px;">
+    			{% for button in page.buttons %}
+    				<a href="{{ button.url }}" target="_blank"
+       					class="btn scrolla-element-anim-1 scroll-animate"
+      					data-animate="active"
+       					style="margin-right: 10px; margin-bottom: 10px; display: inline-block;">
+      					<span>{{ button.label }}</span>
+    				</a>
  				 	{% endfor %}
 				</div>
 				{% endif %}
