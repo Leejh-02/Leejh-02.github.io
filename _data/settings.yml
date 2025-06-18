@@ -30,11 +30,11 @@ portfolio:
     - name: "PROJECT"
       slug: "PROJECT"
 
-    - name: "IPTABLES"
-      slug: "Iptables 실습"
+    - name: "Linux"
+      slug: "Linux 실습"
 
-    - name: "SNORT"
-      slug: "Snort 실습"
+    # - name: "SNORT"
+    #   slug: "Snort 실습"
 
     - #name: "Branding"
       #slug: "branding"
