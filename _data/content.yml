@@ -97,17 +97,17 @@ resume:
   bg_title: "History"
 
   education:
-    title: "학력"
+    title: "education"
     items:
       - name: "선사고등학교"
         #subname: "Backend Programming"
         period: "2014 - 2016"
-        text: #"졸업"
+        text: "졸업"
 
       - name: "한국 폴리텍대학 강서캠퍼스"
         subname: "사이버보안과"
         period: "2024 - 2026"
-        text: #"졸업예정"
+        text: "재학중"
 
   #   - name: "IT Future"
 #      subname: "High School"
@@ -115,55 +115,55 @@ resume:
 #        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
   experience:
-    title: ""
+    title: "Experience"
     items:
-      - name: "UI Head &amp; Manager"
-        subname: "Soft Tech Inc."
-        period: "2020 - <b>Present</b>"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "모의해킹 동아리 활동"
+        subname: "웹 보안 집중 학습"
+        period: "24.04 ~ 24.12"
+        text: "Dreamhack을 이용하여 모의해킹 동아리에서 웹 취약점, 특히 SQL Injection을 중심으로 학습했습니다. 취약한 웹 환경을 구축하고 공격을 실습하며 웹 보안의 원리와 대응 방법을 익혔습니다. 팀원들과 함께 문제를 해결하며 협업 능력도 키울 수 있었습니다."
 
-      - name: "UI / UX Specialist"
-        subname: "Kana Design Studio"
-        period: "2018 - 2020"
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "딥페이크 최신사건을 통한 위험 분석 및 대응 방안 연구"
+        subname: "논문"
+        period: "25.01"
+        text: "딥페이크 최신 사건을 분석해 기술의 위험성을 조명합니다. 현재 대응 방식의 한계를 짚고, 개선 방안을 제안합니다. 인공지능 악용에 대한 대응 체계 마련의 필요성을 강조합니다."
 
-      # - name: "Plugins Developer"
-      #   subname: "Fiverr.com"
-      #   period: "2016 - 2018"
-      #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      - name: "프로젝트 1"
+        subname: "웹 기반 메시지 암호화"
+        period: "25.03 ~ 25.06"
+        text: "메시지 암호화 시스템 설계 및 구현 프로젝트에 참여하였습니다. 안전한 통신을 위한 대칭·비대칭키 기반 암호화 방식을 적용하고, 전송 보안 기능을 구현하였습니다."
 
  
-### Testimonials [ testimonials ]
-testimonials:
-  title: "Testimonials"
-  subtitle: "what <b>Customers Say</b>"
-  bg_title: "Reviews"
+# ### Testimonials [ testimonials ]
+# testimonials:
+#   title: "Testimonials"
+#   subtitle: "what <b>Customers Say</b>"
+#   bg_title: "Reviews"
 
-  items:
-    - image: "assets/img/testimonials/testi4-2.jpg"
-      name: "Barbara Wilson"
-      role: "CEO Company"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#   items:
+#     - image: "assets/img/testimonials/testi4-2.jpg"
+#       name: "Barbara Wilson"
+#       role: "CEO Company"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-1.jpg"
-      name: "Charlie Smith"
-      role: "Designer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-1.jpg"
+#       name: "Charlie Smith"
+#       role: "Designer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-4.jpg"
-      name: "Roy Wang"
-      role: "Manager GYM"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-4.jpg"
+#       name: "Roy Wang"
+#       role: "Manager GYM"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-3.jpg"
-      name: "Jennifer Smith"
-      role: "CEO &amp; Founder"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-3.jpg"
+#       name: "Jennifer Smith"
+#       role: "CEO &amp; Founder"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
-    - image: "assets/img/testimonials/testi4-5.jpg"
-      name: "Paul Freeman"
-      role: "Photographer"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+#     - image: "assets/img/testimonials/testi4-5.jpg"
+#       name: "Paul Freeman"
+#       role: "Photographer"
+#       text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 
 ### Pricing [ pricing ]
@@ -249,15 +249,15 @@ contacts:
   list:
     - label: "Address"
       icon: "far fa-map"
-      text: "seoul"
+      text: "seoul kangdong"
 
-    # - label: "Freelance"
-    #   icon: "far fa-user"
-    #   text: "Available Right Now"
+    - label: "Focus"
+      icon: "fas fa-shield-alt"
+      text: "Pursuing Career in Cybersecurity"
 
     - label: "Email"
       icon: "far fa-envelope"
-      text: "dieo02@naver.com"
+      text: "magh02@naver.com"
 
     # - label: "Phone"
     #   icon: "far fa-address-book"
@@ -267,7 +267,7 @@ contacts:
 #items generates from dir /_Project/*
 portfolio:
   title: "Project"
-  subtitle: "my <b>Cases</b>"
+  subtitle: "my <b>Projects</b>"
   bg_title: "project"
   button:
     link: "Project/"

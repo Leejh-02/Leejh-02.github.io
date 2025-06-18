@@ -18,18 +18,9 @@ info:
     value: Linux
 
 description1:
-  title: 주의사항
-  text1: "이곳에는 Linux(실습ppt) 를 올리는 공간입니다"
-# 왜 안되는거야 하 
-buttons:
-  - label: 공식 문서 보기
-    url: https://example.com/docs
-
-  - label: 실습 코드 GitHub
-    url: https://github.com/example/project
-
-  - label: 참고 영상
-    url: https://youtube.com/watch?v=abc123
+  title : 주의사항
+  text1 : "이곳에는 Linux(실습ppt) 를 올리는 공간입니다"
+  #image : - assets/img
 
 #gallery:
 #  - assets/img/works/file1.png
