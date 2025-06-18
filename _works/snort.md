@@ -18,17 +18,14 @@ info:
     value: Linux
 
 description1:
-  show: yes
-  title: Project Goal
-  text: "<p>aaaa</p>"
+  title: 주의사항
+  text: "이곳에는 Linux(실습ppt)를 올리는 공간 입니다"
+  button1:
+    label: "Iptables"
+    link: "https://docs.google.com/presentation/d/1LG2bvDyzxjv0Ft161qk7E4-8ktK8qgch/edit?usp=sharing&ouid=111502507419039078397&rtpof=true&sd=true"
 
-gallery:
-  - assets/img/works/file1.png
-  
-
-description2:
-  #title: Project Result
-  text: "<p>aaaa</p>"
+#gallery:
+#  - assets/img/works/file1.png
 
   #video:
   #poster: assets/img/blog/blog9.jpg
